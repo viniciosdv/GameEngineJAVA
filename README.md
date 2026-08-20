@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="assets/imagem.png" alt="A Ascensão do Caçador de Relíquias" width="100%">
+</p>
+
 # ⚡ NEXUS JAVA ENGINE
 ### *A Lightweight Entity-Component-System (ECS) & Event-Driven Game Core*
 
