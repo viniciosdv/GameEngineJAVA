@@ -1,0 +1,8 @@
+C:\Users\vinicios\Desktop\GameEngine\com\engine\core\EntityManager.java
+C:\Users\vinicios\Desktop\GameEngine\com\engine\core\EventBus.java
+C:\Users\vinicios\Desktop\GameEngine\com\engine\core\GameEngine.java
+C:\Users\vinicios\Desktop\GameEngine\com\engine\core\Main.java
+C:\Users\vinicios\Desktop\GameEngine\com\engine\core\components\component.java
+C:\Users\vinicios\Desktop\GameEngine\com\engine\core\components\HealthComponent.java
+C:\Users\vinicios\Desktop\GameEngine\com\engine\core\components\StatsComponent.java
+C:\Users\vinicios\Desktop\GameEngine\com\engine\core\systems\CombatSystem.java
