@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/imagem.png" alt="A Ascensão do Caçador de Relíquias" width="100%">
+  <img src="assets/imagem.png" alt="Banner Nexus Engine" width="100%">
 </p>
 
 # ⚡ NEXUS JAVA ENGINE
