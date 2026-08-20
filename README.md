@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/imagem.png" alt="Banner Nexus Engine" width="100%">
+  <img src="assets/imagem.jpg" alt="Banner Nexus Engine" width="100%">
 </p>
 
 # ⚡ NEXUS JAVA ENGINE
